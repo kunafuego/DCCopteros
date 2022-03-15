@@ -1,0 +1,13 @@
+{
+    "host": "localhost",
+    "port": 5000,
+    "chunk_size_mensajes": 60,
+    "chunk_size_imagenes": 100,
+    "cantidad_jugadores_partida": 2,
+    "foto_1": "Avatares/avatar-1.png",
+    "foto_2": "Avatares/avatar-2.png",
+    "foto_3": "Avatares/avatar-3.png",
+    "foto_4": "Avatares/avatar-4.png",
+    "puntos_objetivo": 20,
+    "puntos_ruta_larga": 20
+}

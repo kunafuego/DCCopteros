@@ -1,0 +1,23 @@
+{
+    "host": "localhost",
+    "port": 5000,
+    "ventana_inicio": "Ui_files/ventana_inicio.ui",
+    "sala_de_espera": "Ui_files/sala_de_espera.ui",
+    "ventana_sala_juego": "Ui_files/sala_de_juego.ui",
+    "fin_partida": "Ui_files/fin_partida.ui",
+    "logo_transparente": "sprites/Logo/Logo_transparente.png",
+    "logo_white": "sprites/Logo/Logo_white.png",
+    "fondo_inicio": "sprites/fondo_inicio.jpg",
+    "mapa_ingenieria": "sprites/Mapas/Mapa ING.png",
+    "mapa_sanjoaquin": "sprites/Mapas/Mapa SJ.png",
+    "fondo_azul": "sprites/fondo_azul.jpg",
+    "gif": "sprites/Bonus/pangui_celebrando.gif",
+    "cantidad_jugadores_partida": 2,
+    "chunk_size_mensajes": 60,
+    "chunk_size_imagenes": 100,
+    "baterias_min": 1,
+    "baterias_max": 10,
+    "ancho_mapa": 1095,
+    "alto_mapa": 747,
+    "tiempo_turno": 20
+}
